@@ -1,7 +1,6 @@
-### Hi there 👋
+### :loudspeaker: Hello!
 
-<!--
-**ADolbyB/AdolbyB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Work-at-Home Dad and a student of Computer Engineering at Florida Atlantic University.
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
