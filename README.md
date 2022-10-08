@@ -17,5 +17,9 @@
 </p>
 
 <p align="center">
-    Connect With Me:<br><a href="https://www.linkedin.com/in/joelmbrigida/" title="My LinkedIn Profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>    
+    Connect With Me:    
+</p>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/joelmbrigida/" title="My LinkedIn Profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
