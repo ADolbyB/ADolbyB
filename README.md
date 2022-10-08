@@ -3,11 +3,15 @@
 </p>
 
 <p align="center">
-    Hello. I am a Work-at-Home :house_with_garden: dad :family: and a student of Computer Engineering :computer: at Florida Atlantic University :school:    
+    :house_with_garden: :family: :computer: :school:    
 </p>
 
 <p align="center">
-    <a href="https://linuxmint.com/edition.php?id=292" title="Download Linux Mint"><img src="https://img.shields.io/badge/Primary%20OS-Linux%20Mint%2020.3-lightgreen" /></a>&nbsp;&nbsp;
-    <a href="https://github.com/ADolbyB?tab=repositories" title="My Repositories"><img src="https://img.shields.io/badge/GitHub%20Repos-7-red" /></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/joelmbrigida/" title="My LinkedIn Profile"><img src="https://img.shields.io/badge/Connect-LinkedIn-blue" /></a>
+    Hello. I am a Work-at-Home dad and a student of Computer Engineering at Florida Atlantic University.    
+</p>
+
+<p align="center">
+    <a href="https://linuxmint.com/edition.php?id=292" title="Download Linux Mint"><img src="https://img.shields.io/badge/Linux_Mint_20.3-87CF3E?label=Preferred%20OS&style=flat&color=lightgreen&logo=linux-mint&logoColor=green" /></a>&nbsp;&nbsp;
+    <a href="" title="Dell"><img src="https://img.shields.io/badge/Dell%20Laptops-007DB8?label=Preferred%20Workstation&style=flat&logo=dell&logoColor=lightblue" /></a>&nbsp;&nbsp;
+    <a href="https://www.intel.com/content/www/us/en/products/details/processors/core/i9.html" title="Intel Core i9"><img src="https://img.shields.io/badge/Intel%20Core_i9_-0071C5?label=Powered%20By&style=flat&logo=intel&color=red&logoColor=white" /></a>
 </p>
