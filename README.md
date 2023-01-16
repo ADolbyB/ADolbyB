@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-    :house_with_garden: :family: :computer: :school:    
-</p>
-
-<p align="center">
     Hello. I am a Work-at-Home dad and a student of Computer Engineering at Florida Atlantic University.    
 </p>
 
