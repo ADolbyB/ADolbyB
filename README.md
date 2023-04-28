@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Joel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ADolbyB&count_private=true&show_icons=true&theme=github_dark_dimmed) &nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdolbyB&layout=compact&theme=github_dark_dimmed&langs_count=8&size_weight=0.5&count_weight=0.5)
+![Joel's GitHub Stats](https://github-readme-stats-adolbyb.vercel.app/api?username=ADolbyB&count_private=true&show_icons=true&theme=github_dark_dimmed) &nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats-adolbyb.vercel.app/api/top-langs/?username=AdolbyB&layout=compact&theme=github_dark_dimmed&langs_count=8&size_weight=0.5&count_weight=0.5)
 
 </div>
 
