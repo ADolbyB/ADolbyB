@@ -16,13 +16,13 @@
 </p>
 
 <p align="center">
-    "When the person you hired to fix it can't, they call me."&nbsp;&nbsp;-Myself
+    "When the person you hired to fix it can't....they call me."&nbsp;&nbsp;&nbsp;--Myself
 </p>
 
 <p align="center">
-    <a href="https://www.linuxmint.com/edition.php?id=311" title="Download Linux Mint"><img src="https://img.shields.io/badge/Linux_Mint_21.3-87CF3E?label=Preferred%20OS&style=for-the-badge&color=lightgreen&logo=linux-mint&logoColor=green" /></a>&nbsp;&nbsp;
-    <a href="https://www.dell.com/en-us/shop/dell-laptops/sc/laptops" title="Dell Laptops"><img src="https://img.shields.io/badge/Dell%20Laptops-007DB8?label=Preferred%20Workstation&style=for-the-badge&logo=dell&logoColor=lightblue" /></a>&nbsp;&nbsp;
-    <a href="https://www.intel.com/content/www/us/en/products/details/processors/core/i9.html" title="Intel Core i9"><img src="https://img.shields.io/badge/Intel%20Core_i9_-0071C5?label=Powered%20By&style=for-the-badge&logo=intel&color=red&logoColor=white" /></a>
+    <a href="https://www.dell.com/en-us/shop/dell-laptops/sc/laptops" title="Dell Laptops"><img src="https://img.shields.io/badge/Dell%20Laptops-007DB8?label=HW&style=for-the-badge&logo=dell&logoColor=lightblue" /></a>&nbsp;&nbsp;
+    <a href="https://www.linuxmint.com/edition.php?id=311" title="Download Linux Mint"><img src="https://img.shields.io/badge/Linux_Mint_21.3-87CF3E?label=OS&style=for-the-badge&color=lightgreen&logo=linux-mint&logoColor=green" /></a>&nbsp;&nbsp;
+    <a href="https://www.intel.com/content/www/us/en/products/details/processors/core/i9.html" title="Intel Core i9"><img src="https://img.shields.io/badge/Intel%20Core_i9_-0071C5?label=CPU&style=for-the-badge&logo=intel&color=red&logoColor=white" /></a>
 </p>
 
 <p align="center">
