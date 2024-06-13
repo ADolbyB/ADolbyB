@@ -1,6 +1,6 @@
 <p align="center">
-    <img src="./img/GithubBG.png">
-</p>
+    <img src="./img/Circuit-board_crop.jpg">
+    <!-- Image Credit: https://www.previousmagazine.com/wp-content/uploads/2020/08/Circuit-board.jpg -->
 
 <div align="center">
 <a href="https://github.com/ADolbyB/github-readme-stats">
