@@ -12,7 +12,7 @@
 </div>
 
 <p align="center"><br>
-    Computer & Electronics Engineer | IT Support | Problem Solver | Automotive Technical Trainer | Family Man | AI Graduate Student at Florida Atlantic University.<br>
+    Computer & Electronics Engineer | IT Support | Problem Solver | Automotive Technical Trainer | Family Man <br>
 </p>
 
 <p align="center">
