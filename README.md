@@ -12,7 +12,7 @@
 </div>
 
 <p align="center"><br>
-    Computer & Electronics Engineer | Device Support | Strategic Troubleshooter | Master Technician Mentor | Obstacle Remover |  <br>
+    Computer & Electronics Engineer | Device Support | Strategic Troubleshooter | Master Technician Mentor | Obstacle Remover <br>
 </p>
 
 <p align="center">
