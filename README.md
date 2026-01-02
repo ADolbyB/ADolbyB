@@ -4,7 +4,7 @@
 
 <div align="center">
 <a href="https://github.com/ADolbyB/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-adolbyb.vercel.app/api?username=ADolbyB&count_private=true&show_icons=true&theme=github_dark_dimmed" />
+  <img height=200 align="center" src="https://github-readme-stats-adolbyb.vercel.app/api?username=ADolbyB&count_private=true&show_icons=true&theme=github_dark_dimmed&include_all_commits=true" />
 </a>
 <a href="https://github.com/ADolbyB/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-adolbyb.vercel.app/api/top-langs?username=ADolbyB&layout=compact&theme=github_dark_dimmed&langs_count=8&size_weight=0.35&count_weight=0.65&hide=css,powershell&card_width=320" />
