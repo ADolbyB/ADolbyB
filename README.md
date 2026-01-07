@@ -1,6 +1,7 @@
 <p align="center">
     <img src="./img/Circuit-board_crop.jpg">
     <!-- Image Credit: https://www.previousmagazine.com/wp-content/uploads/2020/08/Circuit-board.jpg -->
+</p>
 
 <div align="center">
 <a href="https://github.com/ADolbyB/github-readme-stats">
