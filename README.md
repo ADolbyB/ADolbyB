@@ -1,31 +1,86 @@
-<p align="center">
-    <img src="./img/Circuit-board_crop.jpg">
-    <!-- Image Credit: https://www.previousmagazine.com/wp-content/uploads/2020/08/Circuit-board.jpg -->
-</p>
-
 <div align="center">
-<a href="https://github.com/ADolbyB/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-adolbyb.vercel.app/api?username=ADolbyB&count_private=true&show_icons=true&theme=github_dark_dimmed&include_all_commits=true" />
-</a>
-<a href="https://github.com/ADolbyB/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-adolbyb.vercel.app/api/top-langs?username=ADolbyB&layout=compact&theme=github_dark_dimmed&langs_count=8&size_weight=0.35&count_weight=0.65&hide=css,powershell&card_width=320" />
-</a>
+
+![Header](img/Circuit-board_crop.jpg)
+
+# Hi, I'm Joel 👋
+
+**Computer & Electronics Engineer | Production & Test Engineer | Strategic Troubleshooter**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joelmbrigida/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ADolbyB)
+
 </div>
 
-<p align="center"><br>
-    Computer & Electronics Engineer | Device Support | Strategic Troubleshooter | Master Technician Mentor | Obstacle Remover <br>
-</p>
+---
 
-<p align="center">
-    <a href="https://www.dell.com/en-us/shop/dell-laptops/sc/laptops" title="Dell Laptops"><img src="https://img.shields.io/badge/Dell%20Laptops-007DB8?label=HW&style=for-the-badge&logo=dell&logoColor=lightblue" /></a>&nbsp;&nbsp;
-    <a href="https://www.linuxmint.com/edition.php?id=311" title="Download Linux Mint"><img src="https://img.shields.io/badge/Linux_Mint_21.3-87CF3E?label=OS&style=for-the-badge&color=lightgreen&logo=linux-mint&logoColor=green" /></a>&nbsp;&nbsp;
-    <a href="https://www.intel.com/content/www/us/en/products/details/processors/core/i9.html" title="Intel Core i9"><img src="https://img.shields.io/badge/Intel%20Core_i9_-0071C5?label=CPU&style=for-the-badge&logo=intel&color=red&logoColor=white" /></a>
-</p>
+## 🛠️ Current Setup
 
-<p align="center">
-    Connect With Me:    
-</p>
+![Dell Laptops](https://img.shields.io/badge/Dell%20Laptops-007DB8?label=HW&style=for-the-badge&logo=dell&logoColor=lightblue)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint_21.3-87CF3E?label=OS&style=for-the-badge&color=lightgreen&logo=linux-mint&logoColor=green)
+![Intel i9](https://img.shields.io/badge/Intel%20Core_i9_-0071C5?label=CPU&style=for-the-badge&logo=intel&color=red&logoColor=white)
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/joelmbrigida/" title="My LinkedIn Profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+---
+
+## 💼 What I Do
+
+**Production & Test Engineer** with expertise in:
+- **SMT Manufacturing** - Pick-and-place, reflow, AOI, X-ray inspection
+- **Hardware Testing** - Functional testing, QA, component-level troubleshooting
+- **Process Optimization** - Cross-functional collaboration for maximum efficiency
+- **Technical Leadership** - Mentoring teams and solving complex problems
+
+**Side Projects:**
+- 🌐 **Web Development** - Full-stack websites with custom deployments
+- 📡 **Ham Radio** - RF tooling and legacy radio programming systems
+- 🔧 **Electronics Projects** - Embedded systems, PCB design, and prototyping
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats-adolbyb.vercel.app/api?username=ADolbyB&count_private=true&show_icons=true&theme=github_dark_dimmed&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats-adolbyb.vercel.app/api/top-langs?username=ADolbyB&layout=compact&theme=github_dark_dimmed&langs_count=8&size_weight=0.35&count_weight=0.65&hide=css,powershell&card_width=320)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### [Mary Immaculate Catholic Church Website](https://github.com/Mary-Immaculate-WPB)
+- Recovered and rebuilt deleted website from Wayback Machine archives
+- Deployed with custom domain and email infrastructure
+- Donated perpetually to serve the faith community
+
+### [Ham Radio RF Toolbox](https://github.com/ADolbyB/ham-radio-rf-toolbox)
+- Modern solution for programming legacy Part 90 commercial radios
+- Dual-boot FreeDOS/Linux system for abandonware compatibility
+- Automated installation and deployment scripts
+
+---
+
+## 💡 Skills & Technologies
+
+**Languages:** C, C++, Python, JavaScript, HTML/CSS, Bash, Assembly  
+**Tools:** Git, VS Code, Altium Designer, WINE, Docker  
+**Hardware:** SMT production equipment, RF test equipment, oscilloscopes, multimeters  
+**Platforms:** Linux (Mint, Ubuntu), FreeDOS, Windows
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joelmbrigida/)
+
+**73 de ADolbyB** 📡
+
+---
+
+<div align="center">
+
+*Building solutions, solving problems, serving communities*
+
+</div>
