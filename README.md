@@ -13,42 +13,46 @@
 
 ---
 
-## 🛠️ Current Setup
+## 🛠️ Current Setup  
 
-![Dell Laptops](https://img.shields.io/badge/Dell%20Laptops-007DB8?label=HW&style=for-the-badge&logo=dell&logoColor=lightblue)
-![Linux Mint](https://img.shields.io/badge/Linux_Mint_21.3-87CF3E?label=OS&style=for-the-badge&color=lightgreen&logo=linux-mint&logoColor=green)
+![Dell Laptops](https://img.shields.io/badge/Dell%20Laptops-007DB8?label=HW&style=for-the-badge&logo=dell&logoColor=lightblue)&nbsp;
+![Linux Mint](https://img.shields.io/badge/Linux_Mint_21.3-87CF3E?label=OS&style=for-the-badge&color=lightgreen&logo=linux-mint&logoColor=green)&nbsp;
 ![Intel i9](https://img.shields.io/badge/Intel%20Core_i9_-0071C5?label=CPU&style=for-the-badge&logo=intel&color=red&logoColor=white)
 
 ---
 
-## 💼 What I Do
+## 💼 What I Do  
 
-**Production & Test Engineer** with expertise in:
-- **SMT Manufacturing** - Pick-and-place, reflow, AOI, X-ray inspection
-- **Hardware Testing** - Functional testing, QA, component-level troubleshooting
-- **Process Optimization** - Cross-functional collaboration for maximum efficiency
-- **Technical Leadership** - Mentoring teams and solving complex problems
+**Production & Test Engineer** with expertise in:  
+- **SMT Manufacturing** - Pick-and-place, reflow, AOI, X-ray inspection  
+- **Hardware Testing** - Functional testing, QA, component-level troubleshooting  
+- **Process Optimization** - Cross-functional collaboration for maximum efficiency  
+- **Technical Leadership** - Mentoring teams and solving complex problems  
 
-**Side Projects:**
-- 🌐 **Web Development** - Full-stack websites with custom deployments
-- 📡 **Ham Radio** - RF tooling and legacy radio programming systems
-- 🔧 **Electronics Projects** - Embedded systems, PCB design, and prototyping
+**Side Projects:**  
+- 🌐 **Web Development** - Full-stack websites with custom deployments  
+- 📡 **Ham Radio** - RF tooling and legacy radio programming systems  
+- 🔧 **Electronics Projects** - Embedded systems, PCB design, and prototyping  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-adolbyb.vercel.app/api?username=ADolbyB&count_private=true&show_icons=true&theme=github_dark_dimmed&include_all_commits=true)
-
+![GitHub Stats](https://github-readme-stats-adolbyb.vercel.app/api?username=ADolbyB&count_private=true&show_icons=true&theme=github_dark_dimmed&include_all_commits=true)&nbsp;&nbsp;&nbsp;
 ![Top Languages](https://github-readme-stats-adolbyb.vercel.app/api/top-langs?username=ADolbyB&layout=compact&theme=github_dark_dimmed&langs_count=8&size_weight=0.35&count_weight=0.65&hide=css,powershell&card_width=320)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects  
+
+### [SDR Phased Array Beamforming](https://github.com/ADolbyB/sdr-beamforming)
+- Multi-channel phase-coherent SDR systems
+- Digital beamforming algorithms and implementation
+- Direction of Arrival (DoA) estimation
 
 ### [Latex Publications and Templates](https://github.com/ADolbyB/latex-publications-templates)
 - Professional document structure and formatting
@@ -67,7 +71,7 @@
 
 ---
 
-## 💡 Skills & Technologies
+## 💡 Skills & Technologies  
 
 **Languages:** C, C++, Python, JavaScript, HTML/CSS, Bash, Assembly  
 **Tools:** Git, VS Code, Altium Designer, WINE, Docker  
@@ -76,16 +80,16 @@
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joelmbrigida/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joelmbrigida/)  
 
-**73 de ADolbyB** 📡
+**73 de ADolbyB** 📡  
 
 ---
 
 <div align="center">
 
-*Building solutions, solving problems, serving communities*
+*Building solutions, solving problems, serving communities*  
 
 </div>
