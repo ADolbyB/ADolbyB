@@ -50,6 +50,11 @@
 
 ## 🚀 Featured Projects
 
+### [Latex Publications and Templates](https://github.com/ADolbyB/latex-publications-templates)
+- Professional document structure and formatting
+- Clean formatting that meets academic standards
+- IEEE conference paper formatting
+
 ### [Mary Immaculate Catholic Church Website](https://github.com/Mary-Immaculate-WPB)
 - Recovered and rebuilt deleted website from Wayback Machine archives
 - Deployed with custom domain and email infrastructure
