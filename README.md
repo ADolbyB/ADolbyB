@@ -4,7 +4,7 @@
 
 # Hi, I'm Joel 👋
 
-**Computer & Electronics Engineer | Production & Test Engineer | Strategic Troubleshooter**
+**Electronics Production & Test Engineer | Strategic Troubleshooter | AI Agent & LLM Researcher**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joelmbrigida/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ADolbyB)
@@ -30,7 +30,8 @@
 - **Technical Leadership** - Mentoring teams and solving complex problems  
 
 **Side Projects:**  
-- 🌐 **Web Development** - Full-stack websites with custom deployments  
+- 🌐 **Web Development** - Full-stack websites with custom deployments
+- 🚘 **Automotive Repair and Restoration** - 1967 Pontiac Firebird 400
 - 📡 **Ham Radio** - RF tooling and legacy radio programming systems  
 - 🔧 **Electronics Projects** - Embedded systems, PCB design, and prototyping  
 
