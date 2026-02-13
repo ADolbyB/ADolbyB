@@ -4,9 +4,9 @@
 
 # Hi, I'm Joel 👋
 
-**Electronics Production & Test Engineer | Strategic Troubleshooter | AI Agent & LLM Researcher**
+**Computer Hardware Engineer | Strategic Troubleshooter | Master Technician Trainer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joelmbrigida/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joelmbrigida/)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ADolbyB)
 
 </div>
@@ -15,8 +15,8 @@
 
 ## 🛠️ Current Setup  
 
-![Dell Laptops](https://img.shields.io/badge/Dell%20Laptops-007DB8?label=HW&style=for-the-badge&logo=dell&logoColor=lightblue)&nbsp;
-![Linux Mint](https://img.shields.io/badge/Linux_Mint_21.3-87CF3E?label=OS&style=for-the-badge&color=lightgreen&logo=linux-mint&logoColor=green)&nbsp;
+![Dell Laptops](https://img.shields.io/badge/Dell%20Laptops-007DB8?label=HW&style=for-the-badge&logo=dell&logoColor=lightblue)&nbsp;&nbsp;
+![Linux Mint](https://img.shields.io/badge/Linux_Mint_21.3-87CF3E?label=OS&style=for-the-badge&color=lightgreen&logo=linux-mint&logoColor=green)&nbsp;&nbsp;
 ![Intel i9](https://img.shields.io/badge/Intel%20Core_i9_-0071C5?label=CPU&style=for-the-badge&logo=intel&color=red&logoColor=white)
 
 ---
@@ -41,8 +41,8 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-adolbyb.vercel.app/api?username=ADolbyB&count_private=true&show_icons=true&theme=github_dark_dimmed&include_all_commits=true)&nbsp;&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats-adolbyb.vercel.app/api/top-langs?username=ADolbyB&layout=compact&theme=github_dark_dimmed&langs_count=8&size_weight=0.35&count_weight=0.65&hide=css,powershell&card_width=320)
+![GitHub Stats](https://github-readme-stats-adolbyb.vercel.app/api?username=ADolbyB&count_private=true&show_icons=true&theme=github_dark_dimmed&include_all_commits=true)&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats-adolbyb.vercel.app/api/top-langs?username=ADolbyB&layout=compact&theme=github_dark_dimmed&langs_count=8&size_weight=0.35&count_weight=0.65&hide=css,powershell)
 
 </div>
 
