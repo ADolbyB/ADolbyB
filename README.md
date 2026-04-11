@@ -9,33 +9,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joelmbrigida/)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ADolbyB)
 
-</div>
-
----
-
-## 🛠️ Current Setup  
-
-![Dell Laptops](https://img.shields.io/badge/Dell%20Laptops-007DB8?label=HW&style=for-the-badge&logo=dell&logoColor=lightblue)&nbsp;&nbsp;
-![Linux Mint](https://img.shields.io/badge/Linux_Mint_21.3-87CF3E?label=OS&style=for-the-badge&color=lightgreen&logo=linux-mint&logoColor=green)&nbsp;&nbsp;
-![Intel i9](https://img.shields.io/badge/Intel%20Core_i9_-0071C5?label=CPU&style=for-the-badge&logo=intel&color=red&logoColor=white)
-
----
+</div> 
 
 ## 💼 What I Do  
 
-**Production & Test Engineer** with expertise in:  
-- **SMT Manufacturing** - Pick-and-place, reflow, AOI, X-ray inspection  
-- **Hardware Testing** - Functional testing, QA, component-level troubleshooting  
-- **Process Optimization** - Cross-functional collaboration for maximum efficiency  
-- **Technical Leadership** - Mentoring teams and solving complex problems  
-
-**Side Projects:**  
-- 🌐 **Web Development** - Full-stack websites with custom deployments
-- 🚘 **Automotive Repair and Restoration** - 1967 Pontiac Firebird 400
-- 📡 **Ham Radio** - RF tooling and legacy radio programming systems  
-- 🔧 **Electronics Projects** - Embedded systems, PCB design, and prototyping  
-
----
+- 🚘 **Automotive Repair and Restoration** - Currently fixing & maintaining Ferraris @ [Ferrari Palm Beach](https://palmbeach.ferraridealers.com/en-US/cars)  
+- 🔋 **Electronics Projects** - Currently collaborating with [Tap2Open](https://about.tap2open.com/) providing security as a service and embedded computer systems support.  
+- 🌐 **Web Development** - Current Director of Web Development for [MICC](https://github.com/Mary-Immaculate-WPB)  
+- 📡 **Ham Radio** - RF tooling and legacy radio programming systems for personal enjoyment  
 
 ## 📊 GitHub Stats  
 
@@ -46,40 +27,42 @@
 
 </div>
 
----
+## 🧰 Other Expertise  
 
-## 🚀 Featured Projects  
-
-### [SDR Phased Array Beamforming](https://github.com/ADolbyB/sdr-beamforming)
-- Multi-channel phase-coherent SDR systems
-- Digital beamforming algorithms and implementation
-- Direction of Arrival (DoA) estimation
-
-### [Latex Publications and Templates](https://github.com/ADolbyB/latex-publications-templates)
-- Professional document structure and formatting
-- Clean formatting that meets academic standards
-- IEEE conference paper formatting
-
-### [Mary Immaculate Catholic Church Website](https://github.com/Mary-Immaculate-WPB)
-- Recovered and rebuilt deleted website from Wayback Machine archives
-- Deployed with custom domain and email infrastructure
-- Donated perpetually to serve the faith community
-
-### [Ham Radio RF Toolbox](https://github.com/ADolbyB/ham-radio-rf-toolbox)
-- Modern solution for programming legacy Part 90 commercial radios
-- Dual-boot FreeDOS/Linux system for abandonware compatibility
-- Automated installation and deployment scripts
-
----
+**Production & Test Engineer** with experience in:  
+- 🤖 **SMT Manufacturing** - Pick-and-place, reflow, AOI, X-ray inspection, machine setup and machine repairs  
+- 💻 **Hardware Testing** - Functional testing, QA, RMA repairs and component-level troubleshooting for embedded computer systems  
+- 📋 **Process Optimization** - Cross-functional collaboration for maximum efficiency  
+- 🏛️ **Technical Leadership** - Mentoring teams to solve complex problems  
 
 ## 💡 Skills & Technologies  
 
 **Languages:** C, C++, Python, JavaScript, HTML/CSS, Bash, Assembly  
 **Tools:** Git, VS Code, Altium Designer, WINE, Docker  
 **Hardware:** SMT production equipment, RF test equipment, oscilloscopes, multimeters  
-**Platforms:** Linux (Mint, Ubuntu), FreeDOS, Windows
+**Platforms:** Linux (Mint, Ubuntu), FreeDOS, Windows  
 
----
+## 🚀 Featured Projects  
+
+### [SDR Phased Array Beamforming](https://github.com/ADolbyB/sdr-beamforming)  
+- Multi-channel phase-coherent SDR systems  
+- Digital beamforming algorithms and implementation  
+- Direction of Arrival (DoA) estimation  
+
+### [Latex Publications and Templates](https://github.com/ADolbyB/latex-publications-templates)  
+- Professional document structure and formatting  
+- Clean formatting that meets academic standards  
+- IEEE conference paper formatting  
+
+### [Mary Immaculate Catholic Church Website](https://github.com/Mary-Immaculate-WPB)  
+- Recovered and rebuilt deleted website from Wayback Machine archives  
+- Deployed with custom domain and email infrastructure  
+- Donated perpetually to serve the faith community  
+
+### [Ham Radio RF Toolbox](https://github.com/ADolbyB/ham-radio-rf-toolbox)  
+- Modern solution for programming legacy Part 90 commercial radios  
+- Dual-boot FreeDOS/Linux system for abandonware compatibility  
+- Automated installation and deployment scripts  
 
 ## 📫 Let's Connect  
 
