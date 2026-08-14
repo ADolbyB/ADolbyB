@@ -14,7 +14,6 @@
 ## 💼 What I Do  
 
 - 🚘 **Automotive Repair and Restoration** - Currently fixing & maintaining Ferraris @ [Ferrari Palm Beach](https://palmbeach.ferraridealers.com/en-US/cars)  
-- 🔋 **Electronics Projects** - Currently collaborating with [Tap2Open](https://about.tap2open.com/) providing security as a service and embedded computer systems support.  
 - 🌐 **Web Development** - Current Director of Web Development for [MICC](https://github.com/Mary-Immaculate-WPB)  
 - 📡 **Ham Radio** - RF tooling and legacy radio programming systems for personal enjoyment  
 
