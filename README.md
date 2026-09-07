@@ -17,6 +17,14 @@
 - 🌐 **Web Development** - Current Director of Web Development for [MICC](https://github.com/Mary-Immaculate-WPB)  
 - 📡 **Ham Radio** - RF tooling and legacy radio programming systems for personal enjoyment  
 
+## 🧰 Other Expertise  
+
+**Production & Test Engineer** with experience in:  
+- 🤖 **SMT Manufacturing** - Pick-and-place, reflow, AOI, X-ray inspection, machine setup and machine repairs  
+- 💻 **Hardware Testing** - Functional testing, QA, RMA repairs and component-level troubleshooting for embedded computer systems  
+- 📋 **Process Optimization** - Cross-functional collaboration for maximum efficiency  
+- 🏛️ **Technical Leadership** - Mentoring teams to solve complex problems  
+
 ## 📊 GitHub Stats  
 
 <div align="center">
@@ -25,14 +33,6 @@
 ![Top Languages](https://github-readme-stats-adolbyb.vercel.app/api/top-langs?username=ADolbyB&layout=compact&theme=github_dark_dimmed&langs_count=8&size_weight=0.35&count_weight=0.65&hide=css,powershell)
 
 </div>
-
-## 🧰 Other Expertise  
-
-**Production & Test Engineer** with experience in:  
-- 🤖 **SMT Manufacturing** - Pick-and-place, reflow, AOI, X-ray inspection, machine setup and machine repairs  
-- 💻 **Hardware Testing** - Functional testing, QA, RMA repairs and component-level troubleshooting for embedded computer systems  
-- 📋 **Process Optimization** - Cross-functional collaboration for maximum efficiency  
-- 🏛️ **Technical Leadership** - Mentoring teams to solve complex problems  
 
 ## 💡 Skills & Technologies  
 
